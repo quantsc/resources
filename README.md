@@ -1,1 +1,4 @@
-# resources
+# Resources
+
+by Quant SC 
+
