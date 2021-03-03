@@ -1,0 +1,20 @@
+# Articles
+
+*   [https://medium.com/automation-generation/ultimate-list-of-automated-trading-strategies-you-should-know-part-1-c9a333f58930](https://medium.com/automation-generation/ultimate-list-of-automated-trading-strategies-you-should-know-part-1-c9a333f58930)
+*   [https://medium.com/automation-generation/ultimate-list-of-automated-trading-strategies-you-should-know-part-2-88184b27cd60](https://medium.com/automation-generation/ultimate-list-of-automated-trading-strategies-you-should-know-part-2-88184b27cd60)
+*   [https://medium.com/automation-generation/ultimate-list-of-automated-trading-strategies-you-should-know-part-3-25d580ccab0c](https://medium.com/automation-generation/ultimate-list-of-automated-trading-strategies-you-should-know-part-3-25d580ccab0c)
+*   [https://smartforexlearning.com/trading-hypothesis-trading-strategy/](https://smartforexlearning.com/trading-hypothesis-trading-strategy/)
+*   [https://tradingstrategyguides.com/algorithmic-trading-strategies/](https://tradingstrategyguides.com/algorithmic-trading-strategies/)
+*   [https://www.quantstart.com/articles/How-to-Identify-Algorithmic-Trading-Strategies/](https://www.quantstart.com/articles/How-to-Identify-Algorithmic-Trading-Strategies/)
+*   [https://blog.quantinsti.com/algorithmic-trading-strategies/](https://blog.quantinsti.com/algorithmic-trading-strategies/)
+*   [https://learn.alphadroid.com/blog/algorithmic-trading-strategies/common-types-of-algorithmic-trading-strategies/](https://learn.alphadroid.com/blog/algorithmic-trading-strategies/common-types-of-algorithmic-trading-strategies/)
+*   [https://cointelegraph.com/explained/algorithmic-trading-strategies-explained](https://cointelegraph.com/explained/algorithmic-trading-strategies-explained)
+*   [https://algotrading101.com/wiki/alternative-data-finance/](https://algotrading101.com/wiki/alternative-data-finance/)
+*   [https://algotrading101.com/learn/quantitative-trading-strategies/](https://algotrading101.com/learn/quantitative-trading-strategies/)
+*   [https://www.reddit.com/r/algotrading/comments/gak8f2/usage_of_alternative_data_in_trading/](https://www.reddit.com/r/algotrading/comments/gak8f2/usage_of_alternative_data_in_trading/)
+*   [https://iknowfirst.com/rsrar-hedge-funds-the-use-of-alternative-data-to-make-trading-decisions](https://iknowfirst.com/rsrar-hedge-funds-the-use-of-alternative-data-to-make-trading-decisions)
+*   [https://blog.quantinsti.com/history-algorithmic-trading-hft/](https://blog.quantinsti.com/history-algorithmic-trading-hft/)
+*   [https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
+*   [https://www.algotrades.net/big-algorithmic-trading-mistakes-avoid/](https://www.algotrades.net/big-algorithmic-trading-mistakes-avoid/)
+*   [https://therobusttrader.com/10-most-common-mistakes-in-algo-trading/](https://therobusttrader.com/10-most-common-mistakes-in-algo-trading/)
+
