@@ -54,7 +54,7 @@
 - Construct a portfolio of 5-10 stocks replicating the HF returns of an interest rates or gas futures contract (some very liquid contract)
   - Gas producers, energy stocks, chemical stocks would be correlated
   - Get a sense of what happens when your futures contract moves —> securities that’s less actively traded may move slower —> you can modulate your holdings in your portfolio
-- Keep is simple! Because otherwise you’ll never know if something’s working or not
+- Keep it simple! Because otherwise you’ll never know if something’s working or not
   - Also don’t be dumb
     - A few years ago the most correlated thing to the S&P 500 was the fluctuations of sheep production in Afghanistan
       - If you used that as a leading indicator,,, that’d be foolish
@@ -76,7 +76,7 @@
 - it’s used for buying
 - it’s a denominator of prices
 - it stores wealth
-- bitcoin’s value comes from the amount of bitcoins being finite & 	fixed
+- bitcoin’s value comes from the amount of bitcoins being finite & fixed
 
 ### (14) his birthday is in September
 
