@@ -75,12 +75,15 @@ The key's randomart image is:
 We’ll be saving your name, email, editor for commit messages, git message colors, and newline handling preferences.
 Open your terminal.
 To save your name and email (use the one affiliated with GitHub), enter:
-git config --global user.name "Tommy Trojan"
-git config --global user.email "ttrojan@usc.edu"
+`git config --global user.name "Tommy Trojan"`
+`git config --global user.email "ttrojan@usc.edu"`
+
 To say that you want easy-to-read colors in GitHub terminal print-outs, enter:
 	`git config --global color.ui auto`
+	
 To say that you want a certain text-editor to be used when writing commit messages, enter:
 	`git config --global core.editor "nano"`
+	
 Note: Options for the text editor include nano, emacs, vi, vim, etc
 Miscellaneous (dealing with git-specific nuances):
 `git config --global core.autocrlf input
